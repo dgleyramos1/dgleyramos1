@@ -21,6 +21,6 @@
  
   ![Snake animation](https://github.com/dgleyramos1/dgleyramos1/blob/output/github-contribution-grid-snake.svg)
  
- <iframe src="https://github.com/sponsors/dgleyramos1/button" title="Sponsor dgleyramos1" height="35" width="116" style="border: 0;"></iframe>
+ <img src="https://github.com/sponsors/dgleyramos1/button" title="Sponsor dgleyramos1" height="35" width="116" style="border: 0;"></img>
  
 </div>
