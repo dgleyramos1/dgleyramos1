@@ -15,14 +15,40 @@
   ##
  
 <div>
-  <a href="https://instagram.com/edgleyramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: dgleysilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edigley-ramos-4a441220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://github.com/sponsors/dgleyramos1" target="_blank" style="background: white, color: black">
-  <img  src="https://cdn-icons-png.flaticon.com/512/1077/1077035.png" width="30" /> Sponsors
- </a>
+  <div id="redes-sociais">
+    <a href="https://instagram.com/edgleyramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto: dgleysilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/edigley-ramos-4a441220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/sponsors/dgleyramos1" target="_blank" id="link">
+      <img  src="https://cdn-icons-png.flaticon.com/512/1077/1077035.png" width="25" height="25" /> Sponsors
+    </a>
+  </div>
  
   ![Snake animation](https://github.com/dgleyramos1/dgleyramos1/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
+
+
+<style>
+  #redes-sociais{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  #redes-sociais a{
+    margin-right: 15px;
+  }
+  #link{
+    background: #fff;
+    width: 110px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    align-self: start;
+  }
+</style>
