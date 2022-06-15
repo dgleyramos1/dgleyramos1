@@ -25,7 +25,7 @@
 
 ###
 <div align="left">
-  <img src="https://profile-counter.glitch.me/dgleyramos/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/dgleyramos1/count.svg?"  />
 </div>
 
 ###
@@ -46,8 +46,8 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=dgleyramos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=dgleyramos" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=dgleyramos1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=true&username=dgleyramos1" height="150" alt="languages graph"  />
 </div>
 
 ###
