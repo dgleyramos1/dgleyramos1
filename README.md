@@ -1,57 +1,31 @@
-<h1 align="center">Hi, welcome to my Github profile</h1>
+<h1 align="center">Hi 👋, I'm Dgley Ramos</h1>
+<h3 align="center">A passionate frontend developer</h3>
+<p align="center">Hello, my name is Dgley Ramos, 28 years old and born in the city of João Pessoa-PB. I live in a city in the interior of the same state, called Catolé do Rocha, where I lived most of my life.
 
-###
-<p align="left">Hello, my name is Dgley Ramos, I'm 28 years old and born in João Pessoa-PB. I live in a city in the interior of the same state, called Catolé do Rocha, where I lived most of my life.<br><br>Lately I've been studying and working with React Js and Node Js technologies in a more direct way, and I've also had some experiences using the Java language.<br><br>I'm a very communicative person, I work well in a team, I'm usually proactive and at the moment I'm looking for an opportunity to enter this technological market and show my potential, in addition to evolving in my learning.</p>
+Lately I've been studying and working with React Js and Node Js technologies in a more direct way, and I've also had some experiences using the Java language.
 
-###
-<img align="right" height="400" src="https://raw.githubusercontent.com/dgleyramos1/api-fake/bdd9858f9b7a7d21f124c8fb849cf01e1881b39e/img/home/perfil-home.svg"  />
+I am a very communicative person, I work well in a team, I tend to be proactive and at the moment I am looking for an opportunity to enter this technological market and show my potential, in addition to evolving in my learning.</p>
 
-###
-<p align="left"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgleyramos1&label=Profile%20views&color=0e75b6&style=flat" alt="dgleyramos1" /> </p>
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-</div>
+- 🌱 I’m currently learning **Angular, React, Java, SpringBoot**
 
-###
-<div align="left">
-  <img src="https://profile-counter.glitch.me/dgleyramos1/count.svg?"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://dgleyramos.pt](https://dgleyramos.pt)
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/dgleyramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dgleyramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/dgleyramos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5583999269928" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+- 💬 Ask me about **React, Java, Javascript**
 
-###
-<div style="display: inline_block">
-  <a href="https://github.com/dgleyramos1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dgleyramos1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgleyramos1&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-<div>
+- 📫 How to reach me **dgleysilva@gmail.com**
 
-###
-![Snake animation](https://github.com/dgleyramos1/dgleyramos1/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dgleyramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgleyramos" height="30" width="40" /></a>
+<a href="https://instagram.com/dgleyramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgleyramos" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dgleyramos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dgleyramos1&show_icons=true&locale=en&theme=dark" alt="dgleyramos1" /></p>
