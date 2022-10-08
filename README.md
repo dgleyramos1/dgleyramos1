@@ -28,4 +28,8 @@ I am a very communicative person, I work well in a team, I tend to be proactive 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dgleyramos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dgleyramos1&show_icons=true&locale=en&theme=dark" alt="dgleyramos1" /></p>
+<div style="display: inline_block">
+  <a href="https://github.com/dgleyramos1">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dgleyramos1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgleyramos1&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<div>
