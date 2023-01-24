@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dgley Ramos</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align="center">Hello, my name is Dgley Ramos, 28 years old and born in the city of João Pessoa-PB. I live in a city in the interior of the same state, called Catolé do Rocha, where I lived most of my life.
+<p align="center">Hello, my name is Dgley Ramos, 29 years old and born in the city of João Pessoa-PB. I live in a city in the interior of the same state, called Catolé do Rocha, where I lived most of my life.
 
 Lately I've been studying and working with React Js and Node Js technologies in a more direct way, and I've also had some experiences using the Java language.
 
