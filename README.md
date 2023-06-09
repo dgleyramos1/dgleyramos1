@@ -14,7 +14,7 @@ I am a very communicative person, I work well in a team, I tend to be proactive 
 
 - 💬 Ask me about **React, Java, Javascript**
 
-- 📫 How to reach me **dgleysilva@gmail.com**
+- 📫 How to reach me **dgleyramos@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
